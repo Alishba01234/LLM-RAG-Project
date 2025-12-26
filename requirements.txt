@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+chromadb
+pypdf
+python-dotenv
